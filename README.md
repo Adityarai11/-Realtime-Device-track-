@@ -2,7 +2,7 @@
 
 A real-time device location tracking application built with Node.js, Express, Socket.IO, and Leaflet maps. This application allows multiple users to share and view their locations in real-time on an interactive map interface.
 
-## Features
+## 🚀 Features
 
 - Real-time location tracking
 - Interactive map interface using Leaflet
@@ -11,7 +11,7 @@ A real-time device location tracking application built with Node.js, Express, So
 - Responsive design
 - Secure WebSocket communication
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - Node.js
 - Express.js
@@ -20,7 +20,7 @@ A real-time device location tracking application built with Node.js, Express, So
 - Leaflet Maps
 - HTML/CSS/JavaScript
 
-## Project Structure
+## 📁 Project Structure
 ```bash
 ├── app.js                  # Main server file
 ├── package.json           # Project dependencies and configuration
@@ -33,3 +33,6 @@ A real-time device location tracking application built with Node.js, Express, So
 │       └── script.js    # Client-side JavaScript
 └── .gitignore           # Git ignore configuration
 ```
+
+## 👤 Author
+Created by Aditya Rai
