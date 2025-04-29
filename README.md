@@ -21,7 +21,7 @@ A real-time device location tracking application built with Node.js, Express, So
 - HTML/CSS/JavaScript
 
 ## Project Structure
-
+```bash
 ├── app.js                  # Main server file
 ├── package.json           # Project dependencies and configuration
 ├── views/
@@ -32,3 +32,4 @@ A real-time device location tracking application built with Node.js, Express, So
 │   └── js/
 │       └── script.js    # Client-side JavaScript
 └── .gitignore           # Git ignore configuration
+```
